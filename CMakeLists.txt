@@ -45,8 +45,8 @@ set(
     src/Intersection.cpp
     src/Intersection.h
     src/main.cpp
-    src/Model_OBJ.cpp
-    src/Model_OBJ.h
+    src/Model.cpp
+    src/Model.h
     src/Octree.h    
 )
 
